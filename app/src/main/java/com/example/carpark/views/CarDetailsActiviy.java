@@ -29,7 +29,7 @@ public class CarDetailsActiviy extends AppCompatActivity {
 
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_car_details);
-//        Toolbar myToolbar = (Toolbar) findViewById(R.id.my_toolbar);
+//
         getSupportActionBar().setTitle("Add Vechicle"); // for set actionbar title
         getSupportActionBar().setDisplayHomeAsUpEnabled(true);
 
